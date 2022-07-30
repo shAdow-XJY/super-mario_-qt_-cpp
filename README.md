@@ -1,10 +1,14 @@
 # super-mario_-qt_-cpp
 C++ Qt5 super mario 超级马里奥
 
+---
+
 ## 源码
 super-mario源码来源于油管的一位大佬分享的工程。
-[youtube链接](https://www.youtube.com/watch?v=rtzKUl8WKSw)
-[大佬的工程代码Google云盘链接](https://drive.google.com/drive/folders/1dYILJuz18WoiCmlaYr7mSfypFgXbvfS5)
+1. [youtube链接](https://www.youtube.com/watch?v=rtzKUl8WKSw)
+2. [大佬的工程代码Google云盘链接](https://drive.google.com/drive/folders/1dYILJuz18WoiCmlaYr7mSfypFgXbvfS5)
+
+---
 
 ## something talk
 1. 人家大佬的代码逻辑结构确实好清晰，wow~ ⊙o⊙
